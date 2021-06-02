@@ -1,0 +1,67 @@
+body{
+    background-color: whitesmoke ;
+}
+.right-sapace{
+    margin-right: 1em;
+}
+.remove-float{
+    float: none;
+}
+.top-space{
+    margin-top: 1.5em;
+}
+
+.big-top-space{
+    margin-top: 100px;
+}
+.larger-padding{
+    padding: 10px 15px;
+}
+.black{
+    background-color: black;
+}
+
+.white-text{
+    color:white:
+}
+
+nav{
+    text-align: right;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 1em;
+    font-size: 1.1em;
+}
+
+nav li a {
+    color: white;
+}
+
+nav li a:hover{
+    color: white;
+}
+
+
+.white{
+    background-color: white;
+}
+
+.border{
+    border: solid 1px #eee
+}
+
+.tr:nth-last-of-type(odd){
+    background-color: #eee;
+}
+
+.link{
+    display: inline-block;
+}
+
+.link input[type="submit"]{
+    background-color: transparent;
+    border: none;
+    color: rebeccapurple;
+}
